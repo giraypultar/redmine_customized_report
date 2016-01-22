@@ -1,0 +1,9 @@
+# Turkish strings go here for Rails i18n
+tr:
+  # my_label: "My label"
+  custom_report: "Özel Rapor"
+  label_horizontal_field: "Yatay Alan"
+  label_vertical_field: "Düşey Alan"
+  label_report_query: "Özel Rapor"
+  label_my_report_queries: "Özel Raporlarım"
+  label_report_query_plural: "Özel Raporlar"
